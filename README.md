@@ -11,3 +11,6 @@ This project detects user emotions using face recognition and plays music accord
 - HTML, CSS, JavaScript
 
 - face-api.js
+
+## output
+![output](screenshot.png)
